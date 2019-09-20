@@ -1,0 +1,1 @@
+creating this repository to keep solutions for data structure challenges.
